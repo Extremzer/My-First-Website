@@ -1,0 +1,86 @@
+body {
+    background-color: #bbbfbf;
+}
+
+.navbar {
+    background-color: black;
+    height: 80px;
+    width: 100%;
+}
+
+.navbar h1 {
+    font-size: 2.5vw;
+    color: orangered;
+    text-align: left;
+}
+
+.logo {
+    color: orangered;
+}
+
+.logo span {
+    color: blue;
+}
+
+.search {
+    --padding: 25px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border-radius: 25px;
+    background-color: #f6f6f6;
+    transition: box-shadow 0.25s;
+    position: relative;
+    top: -62px;
+    margin-left: 525px;
+    outline: none;
+    border: none;
+}
+
+.body-container {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+#search-bar { 
+    font-size: 18px;
+    width: 25vw;
+    padding-right: 10%;
+}
+
+.card {
+    width: 150px;
+    height: 375px;
+
+}
+
+.card img {
+    height: 200px;
+    width: 150px;
+}
+
+.card h2 {
+    text-transform: capitalize;
+}
+
+.qty {
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    position: relative;
+    bottom: 5px;
+}
+
+.checkout {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.payment {
+    text-align: center;
+    margin: auto;
+}

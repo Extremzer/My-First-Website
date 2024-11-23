@@ -1,0 +1,30 @@
+{
+    "items" : [
+
+        {
+            "name": "carrot",
+            "price": "379"
+        },
+
+        {
+            "name": "iPhone 16",
+            "price": "1299"
+        },
+
+        {
+            "name": "S24 Ultra",
+            "price": "1899"
+        },
+
+        {
+            "name": "DSLR Camera",
+            "price": "2500"
+        },
+
+        {
+            "name": "Xiaomi Smart Watch",
+            "price": "199"
+        }
+    ]
+
+}
